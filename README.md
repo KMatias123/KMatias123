@@ -1,1 +1,2 @@
-if you want to message me: @kmatias123:matrix.org
+matrix: @kmatias123:matrix.org  
+discord: KMatias#3109
